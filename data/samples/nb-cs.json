@@ -1,0 +1,482 @@
+[
+  {
+    "courseNumber": "111",
+    "subject": "198",
+    "subjectDescription": "Computer Science",
+    "subjectNotes": "",
+    "campusCode": "NB",
+    "courseTitle": "Introduction to Computer Science",
+    "courseDescription": "Introduction to computer science concepts. Problem-solving, algorithms, and data structures.",
+    "credits": 4,
+    "preReqNotes": "None",
+    "sections": [
+      {
+        "number": "01",
+        "sectionNotes": "",
+        "examCode": "A",
+        "index": "10447",
+        "meetingTimes": [
+          {
+            "meetingDay": "M",
+            "startTime": "1010",
+            "endTime": "1130",
+            "campusAbbrev": "CAC",
+            "campusName": "College Avenue Campus",
+            "buildingCode": "ARC",
+            "roomNumber": "103"
+          },
+          {
+            "meetingDay": "TH",
+            "startTime": "1010",
+            "endTime": "1130",
+            "campusAbbrev": "CAC",
+            "campusName": "College Avenue Campus",
+            "buildingCode": "ARC",
+            "roomNumber": "103"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "VENUGOPAL, S."
+          }
+        ],
+        "openStatus": true,
+        "enrolledStudents": 235,
+        "sectionCapacity": 250,
+        "waitlistTotal": 0,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      },
+      {
+        "number": "02",
+        "sectionNotes": "",
+        "examCode": "A",
+        "index": "10448",
+        "meetingTimes": [
+          {
+            "meetingDay": "TU",
+            "startTime": "1410",
+            "endTime": "1530",
+            "campusAbbrev": "CAC",
+            "campusName": "College Avenue Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "423"
+          },
+          {
+            "meetingDay": "F",
+            "startTime": "1410",
+            "endTime": "1530",
+            "campusAbbrev": "CAC",
+            "campusName": "College Avenue Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "423"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "MENENDEZ, H."
+          }
+        ],
+        "openStatus": false,
+        "enrolledStudents": 250,
+        "sectionCapacity": 250,
+        "waitlistTotal": 15,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      }
+    ],
+    "crossListedCourses": [],
+    "coreCode": {
+      "code": "QQ",
+      "description": "Quantitative Reasoning",
+      "effective": "202309"
+    },
+    "unitNotes": "",
+    "supplementCode": ""
+  },
+  {
+    "courseNumber": "112",
+    "subject": "198",
+    "subjectDescription": "Computer Science",
+    "subjectNotes": "",
+    "campusCode": "NB",
+    "courseTitle": "Data Structures",
+    "courseDescription": "Data abstraction: elementary data structures and their implementation. Trees, graphs, searching, and sorting.",
+    "credits": 4,
+    "preReqNotes": "Prerequisite: 01:198:111 or equivalent",
+    "sections": [
+      {
+        "number": "01",
+        "sectionNotes": "",
+        "examCode": "B",
+        "index": "10450",
+        "meetingTimes": [
+          {
+            "meetingDay": "M",
+            "startTime": "1330",
+            "endTime": "1450",
+            "campusAbbrev": "LIV",
+            "campusName": "Livingston Campus",
+            "buildingCode": "TIL",
+            "roomNumber": "232"
+          },
+          {
+            "meetingDay": "W",
+            "startTime": "1330",
+            "endTime": "1450",
+            "campusAbbrev": "LIV",
+            "campusName": "Livingston Campus",
+            "buildingCode": "TIL",
+            "roomNumber": "232"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "TJANG, A."
+          }
+        ],
+        "openStatus": true,
+        "enrolledStudents": 198,
+        "sectionCapacity": 220,
+        "waitlistTotal": 0,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      },
+      {
+        "number": "02",
+        "sectionNotes": "",
+        "examCode": "B",
+        "index": "10451",
+        "meetingTimes": [
+          {
+            "meetingDay": "TU",
+            "startTime": "0920",
+            "endTime": "1040",
+            "campusAbbrev": "LIV",
+            "campusName": "Livingston Campus",
+            "buildingCode": "BEC",
+            "roomNumber": "120"
+          },
+          {
+            "meetingDay": "TH",
+            "startTime": "0920",
+            "endTime": "1040",
+            "campusAbbrev": "LIV",
+            "campusName": "Livingston Campus",
+            "buildingCode": "BEC",
+            "roomNumber": "120"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "TJANG, A."
+          }
+        ],
+        "openStatus": true,
+        "enrolledStudents": 205,
+        "sectionCapacity": 220,
+        "waitlistTotal": 0,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      }
+    ],
+    "crossListedCourses": [],
+    "coreCode": {
+      "code": "",
+      "description": "",
+      "effective": ""
+    },
+    "unitNotes": "",
+    "supplementCode": ""
+  },
+  {
+    "courseNumber": "205",
+    "subject": "198",
+    "subjectDescription": "Computer Science",
+    "subjectNotes": "",
+    "campusCode": "NB",
+    "courseTitle": "Introduction to Discrete Structures I",
+    "courseDescription": "Logic, sets, functions, relations, and proof techniques. Applications to computer science.",
+    "credits": 3,
+    "preReqNotes": "Prerequisite: 01:640:152 or equivalent",
+    "sections": [
+      {
+        "number": "01",
+        "sectionNotes": "",
+        "examCode": "C",
+        "index": "10455",
+        "meetingTimes": [
+          {
+            "meetingDay": "M",
+            "startTime": "1150",
+            "endTime": "1310",
+            "campusAbbrev": "BUS",
+            "campusName": "Busch Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "114"
+          },
+          {
+            "meetingDay": "TH",
+            "startTime": "1150",
+            "endTime": "1310",
+            "campusAbbrev": "BUS",
+            "campusName": "Busch Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "114"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "SESH, S."
+          }
+        ],
+        "openStatus": false,
+        "enrolledStudents": 180,
+        "sectionCapacity": 180,
+        "waitlistTotal": 8,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      }
+    ],
+    "crossListedCourses": [
+      {
+        "subject": "960",
+        "courseNumber": "205",
+        "offeringUnitCode": "01"
+      }
+    ],
+    "coreCode": {
+      "code": "QQ",
+      "description": "Quantitative Reasoning",
+      "effective": "202309"
+    },
+    "unitNotes": "",
+    "supplementCode": ""
+  },
+  {
+    "courseNumber": "211",
+    "subject": "198",
+    "subjectDescription": "Computer Science",
+    "subjectNotes": "",
+    "campusCode": "NB",
+    "courseTitle": "Computer Architecture",
+    "courseDescription": "Introduction to computer architecture. Topics include instruction set design, processor design, memory systems, and I/O.",
+    "credits": 4,
+    "preReqNotes": "Prerequisite: 01:198:112 or equivalent",
+    "sections": [
+      {
+        "number": "01",
+        "sectionNotes": "",
+        "examCode": "D",
+        "index": "10460",
+        "meetingTimes": [
+          {
+            "meetingDay": "TU",
+            "startTime": "1010",
+            "endTime": "1130",
+            "campusAbbrev": "BUS",
+            "campusName": "Busch Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "005"
+          },
+          {
+            "meetingDay": "F",
+            "startTime": "1010",
+            "endTime": "1130",
+            "campusAbbrev": "BUS",
+            "campusName": "Busch Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "005"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "PATEL, S."
+          }
+        ],
+        "openStatus": true,
+        "enrolledStudents": 142,
+        "sectionCapacity": 200,
+        "waitlistTotal": 0,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science", "Electrical and Computer Engineering"]
+      }
+    ],
+    "crossListedCourses": [
+      {
+        "subject": "332",
+        "courseNumber": "211",
+        "offeringUnitCode": "14"
+      }
+    ],
+    "coreCode": {
+      "code": "",
+      "description": "",
+      "effective": ""
+    },
+    "unitNotes": "",
+    "supplementCode": ""
+  },
+  {
+    "courseNumber": "314",
+    "subject": "198",
+    "subjectDescription": "Computer Science",
+    "subjectNotes": "",
+    "campusCode": "NB",
+    "courseTitle": "Principles of Programming Languages",
+    "courseDescription": "Study of programming language concepts, syntax, semantics, and implementation. Functional, logic, and object-oriented paradigms.",
+    "credits": 3,
+    "preReqNotes": "Prerequisite: 01:198:112 and 01:198:205",
+    "sections": [
+      {
+        "number": "01",
+        "sectionNotes": "",
+        "examCode": "E",
+        "index": "10465",
+        "meetingTimes": [
+          {
+            "meetingDay": "M",
+            "startTime": "1530",
+            "endTime": "1650",
+            "campusAbbrev": "CAC",
+            "campusName": "College Avenue Campus",
+            "buildingCode": "CLJ",
+            "roomNumber": "202"
+          },
+          {
+            "meetingDay": "W",
+            "startTime": "1530",
+            "endTime": "1650",
+            "campusAbbrev": "CAC",
+            "campusName": "College Avenue Campus",
+            "buildingCode": "CLJ",
+            "roomNumber": "202"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "CENTENO, A."
+          }
+        ],
+        "openStatus": true,
+        "enrolledStudents": 95,
+        "sectionCapacity": 120,
+        "waitlistTotal": 0,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      }
+    ],
+    "crossListedCourses": [],
+    "coreCode": {
+      "code": "",
+      "description": "",
+      "effective": ""
+    },
+    "unitNotes": "",
+    "supplementCode": ""
+  },
+  {
+    "courseNumber": "344",
+    "subject": "198",
+    "subjectDescription": "Computer Science",
+    "subjectNotes": "",
+    "campusCode": "NB",
+    "courseTitle": "Design and Analysis of Computer Algorithms",
+    "courseDescription": "Algorithm design techniques. Time and space complexity analysis. NP-completeness.",
+    "credits": 3,
+    "preReqNotes": "Prerequisite: 01:198:112 and 01:198:205",
+    "sections": [
+      {
+        "number": "01",
+        "sectionNotes": "",
+        "examCode": "A",
+        "index": "10470",
+        "meetingTimes": [
+          {
+            "meetingDay": "TU",
+            "startTime": "1330",
+            "endTime": "1450",
+            "campusAbbrev": "LIV",
+            "campusName": "Livingston Campus",
+            "buildingCode": "TIL",
+            "roomNumber": "232"
+          },
+          {
+            "meetingDay": "TH",
+            "startTime": "1330",
+            "endTime": "1450",
+            "campusAbbrev": "LIV",
+            "campusName": "Livingston Campus",
+            "buildingCode": "TIL",
+            "roomNumber": "232"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "WEISS, M."
+          }
+        ],
+        "openStatus": false,
+        "enrolledStudents": 165,
+        "sectionCapacity": 165,
+        "waitlistTotal": 22,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      },
+      {
+        "number": "02",
+        "sectionNotes": "",
+        "examCode": "A",
+        "index": "10471",
+        "meetingTimes": [
+          {
+            "meetingDay": "M",
+            "startTime": "0850",
+            "endTime": "1010",
+            "campusAbbrev": "BUS",
+            "campusName": "Busch Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "005"
+          },
+          {
+            "meetingDay": "W",
+            "startTime": "0850",
+            "endTime": "1010",
+            "campusAbbrev": "BUS",
+            "campusName": "Busch Campus",
+            "buildingCode": "HLL",
+            "roomNumber": "005"
+          }
+        ],
+        "instructors": [
+          {
+            "name": "PAPAMANTHOU, C."
+          }
+        ],
+        "openStatus": true,
+        "enrolledStudents": 148,
+        "sectionCapacity": 165,
+        "waitlistTotal": 0,
+        "subtopicCode": "",
+        "printedComments": "",
+        "unitMajors": ["Computer Science"]
+      }
+    ],
+    "crossListedCourses": [],
+    "coreCode": {
+      "code": "",
+      "description": "",
+      "effective": ""
+    },
+    "unitNotes": "",
+    "supplementCode": ""
+  }
+]
