@@ -22,7 +22,7 @@ pnpm install
 ### Run a probe
 
 ```bash
-pnpm ts-node scripts/soc_probe.ts --config configs/soc_probe.sample.json
+pnpm ts-node --esm scripts/soc_probe.ts --config configs/soc_probe.sample.json
 ```
 
 Adjust `configs/soc_probe.sample.json` (or provide another file via `--config`) to declare

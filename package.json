@@ -8,7 +8,7 @@
     "node": ">=18.18.0"
   },
   "scripts": {
-    "probe:soc": "ts-node --project tsconfig.json scripts/soc_probe.ts",
+    "probe:soc": "ts-node --esm --project tsconfig.json scripts/soc_probe.ts",
     "lint": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest watch"

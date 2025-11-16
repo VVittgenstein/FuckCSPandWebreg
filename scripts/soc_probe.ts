@@ -1,4 +1,4 @@
-#!/usr/bin/env ts-node
+#!/usr/bin/env -S ts-node --esm
 import axios, { AxiosResponse } from "axios";
 import fs from "node:fs/promises";
 import path from "node:path";
