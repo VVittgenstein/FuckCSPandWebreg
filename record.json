@@ -39,16 +39,25 @@
           "note": "需要在开发前期通过实测确认可用参数、速率限制和结构稳定性。"
         }
       ],
-      "unblock_plan": "在测试环境以较低频率尝试多种参数组合，逐步提高频率观察限流行为，将结果记录到 docs/soc_api_notes 中并同步到抓取脚本与通知配置。",
+      "unblock_plan": "先搭建 scripts/soc_probe.ts CLI 与 configs/soc_probe.sample.json，通过 mock 测试验证参数解析，再逐步扩展到限流压测脚本与 contract 生成脚本，最后把 validate:soc-api 命令接入 CI。",
       "estimate_h": 4,
       "risk": "high",
       "confidence": 0.65,
       "interfaces_touched": [
         "data-source",
+        "tooling",
         "observability"
       ],
       "artifacts": [
-        "docs/soc_api_notes.md"
+        "scripts/soc_probe.ts",
+        "scripts/soc_rate_bench.ts",
+        "scripts/soc_contract_report.ts",
+        "configs/soc_probe.sample.json",
+        "tests/soc_probe.spec.ts",
+        "tests/soc_rate_bench.spec.ts",
+        "tests/soc_contract.test.ts",
+        "docs/soc_api_contract.json",
+        "artifacts/soc_rate_report.json"
       ],
       "citations": [
         "EVID-001",
@@ -60,8 +69,9 @@
       "updated_at": "2025-11-13T00:00:00Z",
       "owner": "tbd",
       "tags": [
-        "research",
-        "soc-api"
+        "coding",
+        "soc-api",
+        "cli"
       ],
       "subtasks": {
         "T-20251113-soc-api-validation-ST-01": {
